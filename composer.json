@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Abiodunjames\\Bigbluebutton\\":"src/"
+            "mtgofa\\Bigbluebutton\\":"src/"
         }
     },
     "extra": {
