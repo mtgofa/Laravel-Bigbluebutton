@@ -1,7 +1,7 @@
 <?php
 declare(strict_types = 1);
 
-namespace Abiodunjames\Bigbluebutton\Contracts;
+namespace mtgofa\Bigbluebutton\Contracts;
 
 use BigBlueButton\Parameters\CreateMeetingParameters;
 use BigBlueButton\Parameters\EndMeetingParameters;

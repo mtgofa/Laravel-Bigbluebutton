@@ -1,8 +1,8 @@
 <?php
 
-namespace Abiodunjames\Bigbluebutton;
+namespace mtgofa\Bigbluebutton;
 
-use Abiodunjames\Bigbluebutton\Contracts\Meeting;
+use mtgofa\Bigbluebutton\Contracts\Meeting;
 use BigBlueButton\BigBlueButton;
 use Illuminate\Support\ServiceProvider;
 
