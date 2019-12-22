@@ -1,6 +1,6 @@
 {
     "name": "mtgofa/bigbluebutton",
-    "description": "Bigbluebutton wrapper for laravel 5",
+    "description": "Bigbluebutton wrapper for laravel 6",
     "license": "MIT",
     "keywords": ["laravel", "bigbluebutton", "wrapper"],
     "authors": [
